@@ -5,7 +5,7 @@
 图片链接字符串数组如下：
 
 `
-public final static String[] URLS = new String[]{
+public final static String[] IMAGE_URLS = new String[]{
         "https://github.com/WinKawaks/image-package/blob/master/src/01.jpg",
         "https://github.com/WinKawaks/image-package/blob/master/src/02.jpg",
         "https://github.com/WinKawaks/image-package/blob/master/src/03.jpg",
@@ -60,4 +60,4 @@ public final static String[] URLS = new String[]{
     };
 `
 
-或使用 *Image.java* 文件。
+或使用 *Images.java* 文件。
